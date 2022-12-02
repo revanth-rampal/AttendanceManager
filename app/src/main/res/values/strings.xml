@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attendance Manager</string>
+    <string name="welcome">WELCOME !</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="view_reports">View Reports</string>
+    <string name="d">View Reports</string>
+</resources>
